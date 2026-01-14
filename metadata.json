@@ -1,0 +1,7 @@
+{
+  "name": "Fruit Clapper - AI Pose Game",
+  "description": "A fun webcam-based game where you catch falling fruits by clapping your hands together. Uses AI pose estimation to detect hand positions in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
